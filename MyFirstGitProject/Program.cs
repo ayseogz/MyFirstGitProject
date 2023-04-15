@@ -7,9 +7,9 @@
             Console.WriteLine("hello");
             Console.WriteLine("world");
           
-            Console.WriteLine("hellosssss");
+            Console.WriteLine("b");
 
-            Console.WriteLine("yeni");
+            Console.WriteLine("B.Ö.C.");
 
             Console.WriteLine("yeni");
             Console.WriteLine("yeni");
